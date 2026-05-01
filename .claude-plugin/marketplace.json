@@ -1,0 +1,9 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-skills",
+  "description": "A personal collection of Claude Code plugins and skills by tetsumaru",
+  "owner": {
+    "name": "tetsumaru",
+  },
+  "plugins": []
+}
